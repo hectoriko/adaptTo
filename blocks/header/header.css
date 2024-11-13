@@ -266,3 +266,9 @@ header nav .nav-sections ul > li > ul > li {
 header nav .nav-tools {
   grid-area: tools;
 }
+
+/* tools */
+/* header and nav layout */
+header .nav-wrapper {
+  background-color: #99d6e2;
+}
